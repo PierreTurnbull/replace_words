@@ -1,0 +1,20 @@
+Hello world!
+
+This\is\\the\\\test\\\\for\\\\\my\\\\\\script
+It***shall"""test'''everything[[[and]]]leave```no<<<prisoner>>>even$$$if&&&they===are   smart
+
+a
+\\\
+***
+"""
+'''
+```
+###
+$$$
+&&&
+[[[
+]]]
+>>>
+<<<
+===
+b
