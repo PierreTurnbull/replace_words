@@ -2,4 +2,4 @@ This script makes a recursive research within a specified directory and replaces
 
 **Usage:**
 
-``./replace.sh directory replaced_word new_word``
+``./replace.sh <directory> <replaced_word> <new_word>``
